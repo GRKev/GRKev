@@ -1,4 +1,4 @@
-# 👨‍💻 Genius Remote Dev
+Genius Remote Dev
 
 <div align="center">
   <img src="https://github.com/GRKev/GRKev/blob/main/GR-logo.png" width="150" alt="Logo Genius Remote Dev"/>
