@@ -44,11 +44,11 @@ Desarrollo e implementación de plataformas digitales optimizadas para distintos
 
 ## Plataformas Nexus
 
-Desarrollo de ecosistemas software integrales (Plataformas Nexus) diseñados para la gestión operativa y administrativa de organizaciones.
+Desarrollo de Plataformas de gestion Administrativa, Operativa y Financiera.
 
 ### Plataforma Nexus: JFD AUTO CARE
 
-Sistema ERP empresarial desarrollado para la gestión integral de centros de servicio automotriz y detailing.
+Plataforma de gestión integral de centros de servicio automotriz y detailing.
 
 **Arquitectura Técnica:**
 - Backend en PHP con arquitectura MVC modular
@@ -101,7 +101,7 @@ Sistema ERP empresarial desarrollado para la gestión integral de centros de ser
 
 ### Plataforma Nexus: PRODUCT CONCIERGE
 
-Sistema de gestión y coordinación de servicios de demostración de productos y embajadores de marca en locaciones retail.
+Plataforma de gestión y coordinación de servicios de demostración de productos y embajadores de marca en locaciones retail.
 
 **Arquitectura Técnica:**
 - PHP 100% con diseño orientado a objetos
