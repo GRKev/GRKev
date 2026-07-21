@@ -1,145 +1,229 @@
-Genius Remote Dev
+# Genius Remote 
 
-<div align="center">
-  <img src="https://github.com/GRKev/GRKev/blob/main/GR-logo.png" width="150" alt="Logo Genius Remote Dev"/>
-  <h3>Senior Full Stack Developer & Software Architect</h3>
-  <p>Founder at <a href="https://genius-remote.com/">Genius Remote Dev</a> 🇨🇴</p>
-  
-  <p>
-    <a href="mailto:geniusremote.info@gmail.com">
-      <img src="https://img.shields.io/badge/Email-geniusremote.info@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://genius-remote.com/">
-      <img src="https://img.shields.io/badge/Website-genius--remote.com-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-  </p>
-</div>
+<img src="https://github.com/GRKev/GRKev/blob/main/GR-logo.png" alt="Genius Remote Dev Logo" width="150" />
+
+Arquitectura de Software y Desarrollo de Sistemas Empresariales.
 
 ---
 
-##  Sobre Mí
+## Perfil Profesional
 
-Soy un **desarrollador Full Stack Senior y Arquitecto de Software** con experiencia en el diseño, desarrollo e implementación de soluciones web personalizadas y aplicaciones multiplataforma. Me especializo en crear sistemas robustos, escalables y optimizados para rendimiento y experiencia de usuario.
+Desarrollador Full Stack y Arquitecto de Software especializado en el diseño, implementación y optimización de soluciones web corporativas y aplicaciones multiplataforma. Fundador de Genius Remote Dev, enfocado en entregar sistemas robustos, escalables y de alto rendimiento, con énfasis en la seguridad de la información y la eficiencia operativa.
 
-Como **fundador de Genius Remote Dev**, ofrezco servicios de consultoría en arquitectura de software y desarrollo web para empresas en Colombia y Latinoamérica.
-
-### 💼 Lo que hago:
-- 🏗️ **Arquitectura de Software**: Diseño de sistemas escalables y mantenibles
-- 🌐 **Desarrollo Web Full Stack**: Desde el frontend hasta el backend y bases de datos
-- 📱 **Aplicaciones Multiplataforma**: Soluciones que funcionan en web, móvil y escritorio
--  **Optimización y Rendimiento**: Mejora de velocidad, SEO y experiencia de usuario
-- 🤖 **Automatización de Procesos**: Integración con APIs, Google Sheets, SAP y más
-- 🚀 **Despliegue y DevOps**: Configuración de servidores, cPanel, dominios y SSL
+Áreas de competencia:
+- Arquitectura de software escalable y mantenible.
+- Desarrollo backend y frontend de aplicaciones empresariales.
+- Integración de sistemas (APIs, ERP, hojas de cálculo y facturación electrónica).
+- Optimización de rendimiento, seguridad y despliegue en entornos de producción.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Soluciones Web Desplegadas
 
-### Lenguajes de Programación
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+Desarrollo e implementación de plataformas digitales optimizadas para distintos sectores industriales:
 
-### Frameworks y Librerías
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-</p>
+- **Genius Remote**: [genius-remote.com](https://genius-remote.com/)  
+  Sitio corporativo y portafolio de servicios de arquitectura de software y consultoría tecnológica.
 
-### Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-</p>
+- **JFD Auto Care**: [jfdautocare.com](https://jfdautocare.com/)  
+  Plataforma digital para la gestión y prestación de servicios en el sector automotriz.
 
-### Herramientas y Servicios
-<p align="left">
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-</p>
+- **Fawcett Service**: [fawcettservice.com](https://fawcettservice.com/)  
+  Sitio corporativo para servicios técnicos especializados y mantenimiento industrial.
+
+- **Fresh Temp**: [fresh-temp.com](https://www.fresh-temp.com/)  
+  Solución digital para empresas de climatización, refrigeración y control de temperatura.
+
+- **Lab Solution Colombia**: [labsolutioncolombia.com](https://www.labsolutioncolombia.com)  
+  Portal técnico y comercial para soluciones de laboratorio y equipamiento científico.
+
+- **Stone Perfection**: [stoneperfection-sc.com](https://www.stoneperfection-sc.com/)  
+  Vitrina digital y sistema de gestión para servicios de acabados en piedra y construcción de alto nivel.
 
 ---
 
-## 🚀 Proyectos Destacados
+## Plataformas Nexus
 
-### 🌐 Web Design Portfolio
-Portafolio de soluciones web personalizadas, optimizadas para rendimiento y experiencia de usuario:
+Desarrollo de ecosistemas software integrales (Plataformas Nexus) diseñados para la gestión operativa y administrativa de organizaciones.
 
-- 🔧 **[JFD Auto Care](https://github.com/GR-Nexus/JFD-AUTO-CARE)** - Plataforma de servicios para el sector automotriz.
-- 🔧 **Fawcett Service** - Web corporativa para servicios técnicos especializados.
-- ❄️ **Fresh Temp** - Solución digital para servicios de climatización y refrigeración.
-- 📦 **Suprimas** - Portal de suministros y servicios especializados en Colombia.
-- 🔬 **Lab Solution Colombia** - Plataforma técnica para soluciones de laboratorio.
-- 💎 **Stone Perfection** - Vitrina digital para servicios de acabados en piedra y construcción.
-- 🏢 **Genius Remote** - Landing page oficial de servicios de arquitectura de software y consultoría.
-- 🏗️ **Dissaes Construcciones** - Web corporativa para el sector de la construcción e infraestructura.
+### Plataforma Nexus: JFD AUTO CARE
 
-### 📁 Featured Projects & Systems
+Sistema ERP empresarial desarrollado para la gestión integral de centros de servicio automotriz y detailing.
 
-- 🏢 **[Product Concierge](https://github.com/GR-Nexus/PRODUCT-CONCIERGE)**  
-  `PHP` `MySQL` `cPanel` `WordPress`  
-  Implementación de servicios de asistencia técnica personalizada y gestión de procesos. Sistema completo con portal de clientes, empleados y administradores.
+**Arquitectura Técnica:**
+- Backend en PHP con arquitectura MVC modular
+- Base de datos MySQL con PDO y consultas preparadas
+- Sistema de autenticación con encriptación bcrypt (costo 12)
+- Protección CSRF y validación de sesiones con timeout configurable
+- Validación de VIN (Vehicle Identification Number) estándar
+- Generación de PDFs con firmas digitales
+- Gestión de uploads con estructura de directorios segura
 
-- 🚗 **Automotive ERP**  
-  `PHP` `MySQL` `cPanel`  
-  Desarrollo de plataforma web para la gestión integral de empresas de reparación de vehículos. Incluye módulos de inventario, órdenes de trabajo y facturación.
+**Módulos Principales:**
 
-- 🏠 **Real Estate Web App**  
-  `PHP` `MySQL`  
-  Aplicación para la gestión de lotes y proyectos de construcción de viviendas. Control de inventario, clientes y seguimiento de proyectos.
+1. **Administración (Admin)**
+   - Dashboard ejecutivo con métricas operativas
+   - Gestión de clientes (manuales, seleccionados y carwash)
+   - Administración de empleados y roles
+   - Control de inventario de vehículos
+   - Sistema de inspecciones vehiculares
+   - Módulo de facturación y liquidaciones
+   - Generación de reportes personalizados
+   - Configuración global del sistema
 
-- 🧾 **Fiscal Integration**  
-  `PHP` `SAP` `ViveAmbar`  
-  Desarrollo de soluciones para factura electrónica con la DIAN integradas con SAP (ViveAmbar). Cumplimiento normativo colombiano.
+2. **Portal de Empleados**
+   - Dashboard de actividades asignadas
+   - Sistema de aprobaciones pendientes
+   - Registro de inspecciones técnicas
+   - Historial de servicios realizados
+   - Gestión de firmas y autorizaciones
 
-- 🤖 **Unisitrageg**  
-  `PHP` `Google Sheets API`  
-  Sistema de afiliación sindical con automatización de bases de datos mediante Google Sheets.
+3. **API de Integración**
+   - Endpoints para servicios externos
+   - Intercambio de datos en tiempo real
+   - Conectividad con sistemas terceros
 
----
+**Tipos de Servicio Gestionados:**
+- Reparación y mantenimiento vehicular
+- Limpieza y detailing profesional
+- Tratamiento con ozono
+- Servicios personalizados
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRKev&show_icons=true&theme=dark" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRKev&theme=dark" width="45%"/>
-</div>
-
----
-
-## 💡 Filosofía de Trabajo
-
-> "Código limpio, soluciones escalables y experiencias de usuario excepcionales."
-
-Me enfoco en:
-- ✅ **Código mantenible y documentado**
-- ✅ **Seguridad desde el diseño** (OWASP, protección de datos)
-- ✅ **Rendimiento optimizado** (carga rápida, SEO)
-- ✅ **Experiencia de usuario intuitiva**
-- ✅ **Comunicación clara con el cliente**
+**Ventajas Operativas:**
+- Centralización completa de la operación del taller
+- Trazabilidad total desde el ingreso del vehículo hasta la entrega
+- Control de inventario en tiempo real
+- Eliminación de procesos manuales y reducción de errores
+- Facturación ágil con soporte para diferentes modalidades
+- Seguridad robusta con múltiples capas de protección
 
 ---
 
-## 🤝 ¿Trabajamos juntos?
+### Plataforma Nexus: PRODUCT CONCIERGE
 
-Estoy disponible para proyectos de desarrollo web, consultoría en arquitectura de software y soluciones personalizadas para tu empresa.
+Sistema de gestión y coordinación de servicios de demostración de productos y embajadores de marca en locaciones retail.
 
-📧 **Email**: [geniusremote.info@gmail.com](mailto:geniusremote.info@gmail.com)  
-🌐 **Web**: [genius-remote.com](https://genius-remote.com/)  
- **Ubicación**: Colombia 🇨🇴
+**Arquitectura Técnica:**
+- PHP 100% con diseño orientado a objetos
+- Base de datos MySQL con arquitectura escalable
+- Integración nativa con Google Apps Script y Google Sheets API
+- Generación de PDFs con librería TCPDF
+- Sistema multi-idioma (Español/Inglés) con persistencia
+- Autenticación por roles (Administrador, Cliente, Empleado)
+- Interfaz con animaciones GSAP y diseño responsive
+
+**Módulos Principales:**
+
+1. **Portal de Administración**
+   - Configuración de integraciones externas
+   - Gestión de Google Apps Script (URLs de sistemas de turnos y demos)
+   - Administración de Google Sheet ID para almacenamiento de datos
+   - Reglas de negocio configurables (facturación fija o variable)
+   - Personalización de apariencia web pública
+   - Dashboard de control y supervisión
+
+2. **Portal de Clientes**
+   - Acceso seguro para visualización de servicios
+   - Seguimiento de demostraciones programadas
+   - Reportes de rendimiento y métricas
+   - Documentación y soportes en PDF
+
+3. **Portal de Empleados**
+   - Gestión de asignaciones de turnos
+   - Registro de actividades en locaciones
+   - Control de asistencia y horarios
+   - Subida de evidencias y documentación
+
+4. **API de Servicios**
+   - Comunicación con Google Apps Script
+   - Sincronización con hojas de cálculo en la nube
+   - Actualización en tiempo real de datos operativos
+   - Webhooks para eventos críticos
+
+**Servicios Gestionados:**
+- Demostraciones en tiendas (In-Store Demonstrations)
+- Embajadores de marca (Brand Ambassadors)
+- Analíticas de ventas y ROI
+- Planificación de eventos corporativos
+- Muestreo de productos (Product Sampling)
+- Integración digital y redes sociales
+
+**Configuración de Facturación:**
+- Modalidad de tarifa fija por servicio
+- Modalidad variable por hora/demostración
+- Reglas de negocio personalizables por cliente
+- Cálculo automático de comisiones
+
+**Ventajas Operativas:**
+- Coordinación eficiente de equipos en múltiples locaciones
+- Tracking en tiempo real de demostraciones y ventas
+- Integración completa con ecosistema Google
+- Reducción de tiempos administrativos
+- Reportes detallados de rendimiento por embajador y locación
+- Sistema de turnos automatizado
+- Comunicación fluida entre administradores, clientes y empleados
+- Generación automática de documentación y reportes
 
 ---
 
-<div align="center">
-  <p><i>Desarrollado con ❤️ por Genius Remote Dev</i></p>
-  <img src="https://img.shields.io/badge/Last_Updated-2026-0077B5?style=flat-square"/>
-</div>
+## Stack Tecnológico
+
+Lenguajes y tecnologías utilizadas en el desarrollo de las soluciones mencionadas:
+
+**Backend:**
+- PHP (desarrollo orientado a objetos)
+- SQL (MySQL con PDO)
+- Integración de APIs REST
+- Google Apps Script
+- Google Sheets API
+
+**Frontend:**
+- HTML5 semántico
+- CSS3 con diseño responsive
+- JavaScript vanilla y jQuery
+- Bootstrap para componentes UI
+- GSAP para animaciones avanzadas
+- Font Awesome para iconografía
+
+**Bases de Datos:**
+- MySQL (producción)
+- Google Sheets (integración vía API)
+
+**Infraestructura y Herramientas:**
+- cPanel para despliegue y administración
+- Git y GitHub para control de versiones
+- Gestión de dominios y certificados SSL
+- Servidores Apache con .htaccess
+
+**Librerías y Frameworks:**
+- TCPDF (generación de PDFs)
+- TSParticles (efectos visuales)
+- Password hashing (bcrypt)
+- CSRF protection libraries
+
+**Integraciones Empresariales:**
+- SAP (ViveAmbar)
+- Facturación Electrónica DIAN (Colombia)
+- Google Workspace (Sheets, Apps Script)
+
+---
+
+## Filosofía de Ingeniería
+
+"El código debe ser limpio, la arquitectura escalable y la seguridad una premisa no negociable desde el primer diseño."
+
+Enfoque en:
+- Mantenibilidad y documentación técnica rigurosa
+- Cumplimiento de estándares de seguridad OWASP
+- Optimización de tiempos de carga y experiencia de usuario
+- Validación exhaustiva de datos de entrada
+- Encriptación de información sensible
+- Sesiones seguras con timeout configurable
+- Protección contra ataques CSRF, XSS e inyección SQL
+
+---
+
+## Contacto
+
+grdev@genius-remote.com  
+genius-remote.com
