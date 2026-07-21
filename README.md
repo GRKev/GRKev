@@ -2,7 +2,7 @@
 
 <img src="https://github.com/GRKev/GRKev/blob/main/GR-logo.png" alt="Genius Remote Dev Logo" width="150" />
 
-Arquitectura de Software y Desarrollo de Sistemas Empresariales.
+Arquitectura de Software y Desarrollo de Plataformas Empresariales.
 
 ---
 
